@@ -1,0 +1,17 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "[javascript][typescript]": {
+    "editor.rulers": [
+      {
+        "column": 100,
+        "color": "#424142"
+      }
+    ],
+    "editor.defaultFormatter": null,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    }
+  },
+}
